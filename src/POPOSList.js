@@ -1,6 +1,6 @@
 import POPOSSpace from './POPOSSpace';
+import './POPOSList.css';
 
-// Set the props: name, image, and address for the other components here
 
 function POPOSList() {
     return (
